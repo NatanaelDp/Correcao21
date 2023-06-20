@@ -1,0 +1,7 @@
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.exe.config
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.exe
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\bin\Debug\Correcao21.pdb
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.csproj.AssemblyReference.cache
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.csproj.CoreCompileInputs.cache
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.exe
+C:\Users\natanael.apaula\source\repos\Correcao21\Correcao21\obj\Debug\Correcao21.pdb
